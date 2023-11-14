@@ -2,7 +2,7 @@
 DeepLearning.AI - AI for Medicine. 10 Projects in AI application in Medical Diagnosis, Prognosis and Treatment.
 
 Content:
-C1 - AI for Medical Diagnosis
+C1 - AI for Medical Diagnosis\n
 Assignment Projects:
 1.1 Chest X-Ray Medical Diagnosis with Deep Learning
 1.2 Evaluation of Diagnosis Models
